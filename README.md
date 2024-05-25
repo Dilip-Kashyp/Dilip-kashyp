@@ -36,9 +36,14 @@
 &nbsp;&nbsp;
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Dilip-Kashyp&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Dilip-Kashyp" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilip-Kashyp&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="Dilip-Kashyp" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip-Kashyp&&theme=react&rank_icon=github&border_radius=10" alt="Dilip-Kashyp" /></p>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dilip-Kashyp&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Dilip-Kashyp&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dilip-Kashyp&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
