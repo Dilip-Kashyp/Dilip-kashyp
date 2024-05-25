@@ -36,3 +36,11 @@
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Dilip-Kashyp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Dilip-Kashyp" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilip-Kashyp&show_icons=true&locale=en&theme=tokyonight" alt="Dilip-Kashyp" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip-Kashyp&&theme=tokyonight" alt="Dilip-Kashyp" /></p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dilip-Kashyp/Dilip-Kashyp/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dilip-Kashyp/Dilip-Kashyp/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
