@@ -35,3 +35,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilip-kashyp&show_icons=true&locale=en&theme=tokyonight" alt="dilip-kashyp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilip-kashyp&&theme=tokyonight" alt="dilip-kashyp" /></p>
+
+[<img height="40" width="40" src="https://cdn.simpleicons.org/github/181717/fff"/>](https://github.com/Dilip-kashyp) [<img src='https://cdn.simpleicons.org/linkedin/0a66c2/fff' alt='linkedin' height='40'>](https://www.linkedin.com/in/dilip-kashyap/) 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dilip-kashyp/Dilip-kashyp/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dilip-kashyp/Dilip-kashyp/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
