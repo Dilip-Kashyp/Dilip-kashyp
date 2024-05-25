@@ -33,7 +33,7 @@
 <p><img align="center" height="250" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilip-kashyp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dilip-kashyp" /></p>
 
 
-<p><img align="left" height="400" width="470" src="https://github-readme-stats.vercel.app/api?username=dilip-kashyp&show_icons=true&locale=en&theme=tokyonight" alt="dilip-kashyp" /></p>
+<p><img align="center" height="200" width="1000" src="https://github-readme-stats.vercel.app/api?username=dilip-kashyp&show_icons=true&locale=en&theme=tokyonight" alt="dilip-kashyp" /></p>
 
-<p><img align="right" height="400" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=dilip-kashyp&&theme=tokyonight" alt="dilip-kashyp" /></p>
+<p><img align="center" height="200" width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=dilip-kashyp&&theme=tokyonight" alt="dilip-kashyp" /></p>
 
