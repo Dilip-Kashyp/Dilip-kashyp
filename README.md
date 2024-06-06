@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently expanding my knowledge in **data structures and machine learning.**
+- 🌱 I’m currently expanding my knowledge in **data structures and Back-end development.**
 
 - 👨‍💻 All of my projects are available at [https://dilip-kashyp.github.io/](https://dilip-kashyp.github.io/)
 
