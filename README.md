@@ -1,5 +1,5 @@
 <h1 align="center">Dilip Kumar</h1>
-<p align="center">Software Developer • Backend Engineer • Open Source Contributor</p>
+<p align="center">Software Engineer • Specializing Full Stack Development </p>
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
