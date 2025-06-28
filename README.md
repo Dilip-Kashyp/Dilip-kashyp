@@ -115,11 +115,7 @@ Integrated Google Meet and Razorpay, allowing users to join virtual yoga session
 - **Resume**: [View PDF](https://dilip-kashyp.github.io/assets/Dilip_Kumar(Resume).pdf)
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dilip-Kashyp/Dilip-Kashyp/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dilip-Kashyp/Dilip-Kashyp/blob/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://github.com/Dilip-Kashyp/Dilip-Kashyp/blob/output/github-snake.svg" />
-</picture>
+
 
 <p align="center">
   Focused on quality engineering, scalable systems, and continuous learning.
