@@ -1,74 +1,98 @@
-<h1 align="center">Hey there! 👋 I'm Dilip Kumar</h1>
-<h3 align="center">🚀 Software Developer | 🧠 Curious Problem Solver | 💻 Backend Enthusiast</h3>
+<h1 align="center">Dilip Kumar</h1>
+<h3 align="center">Software Developer | Backend Engineering | Problem Solving</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&lines=Passionate+about+code+%26+coffee;Always+learning+new+tech;SDE-1+ready+and+thriving!" alt="Typing SVG" />
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-### 👨‍💻 About Me
-
-- 🌱 Currently sharpening my skills in **DSA, Backend Development & System Design**  
-- 🧩 Building scalable applications and solving real-world problems  
-- 💬 Ask me about **APIs, Databases, Debugging and Code Architecture**  
-- 📫 Reach out: **dilipkumar.dev.official@gmail.com**  
-- 📄 [Check out my resume](https://dilip-kashyp.github.io/assets/Dilip_Kumar(Resume).pdf)  
-- 🌐 [My Portfolio](https://dilip-kashyp.github.io/)  
-- ⚡ Fun fact: I once fixed a 3AM production bug with just a missing semicolon 😅  
-
----
-
-### 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dilip-kashyap" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://dev.to/dilipkashyp" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-black?logo=dev.to&style=for-the-badge" />
-  </a>
-  <a href="https://stackoverflow.com/users/25244343/dilip-kumar" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow&style=for-the-badge" />
-  </a>
-  <a href="https://www.hackerrank.com/dilipkumar491249" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&style=for-the-badge" />
-  </a>
-  <a href="https://leetcode.com/u/Dilip-Kashyp/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,c,cpp" /><br />
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,firebase,linux,vercel" />
+  I'm a passionate and driven software developer focused on building scalable backend systems and solving real-world engineering problems through clean code, solid design patterns, and a learning-first approach.
 </p>
+
+<img align="right" alt="Working at night" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+## Summary
+
+- Actively working on system design, backend architecture, and API development.
+- Strong foundation in computer science fundamentals and data structures.
+- Focused on writing robust, testable, and maintainable code.
+- Exploring performance optimization and production-level debugging.
+- Interested in building and contributing to impactful software systems.
+
+## Portfolio & Resume
+
+- Portfolio: [dilip-kashyp.github.io](https://dilip-kashyp.github.io/)
+- Resume: [View Resume (PDF)](https://dilip-kashyp.github.io/assets/Dilip_Kumar(Resume).pdf)
+
+## Reach Out
+
+- Email: dilipkumar.dev.official@gmail.com
+- LinkedIn: [linkedin.com/in/dilip-kashyap](https://www.linkedin.com/in/dilip-kashyap)
 
 ---
 
-### 📊 GitHub Stats
+## Tech Stack
+
+### Languages
+`JavaScript` `TypeScript` `Python` `C` `C++` `SQL`
+
+### Frameworks & Libraries
+`Node.js` `Express.js` `Next.js` `React` `Sequelize` `Tailwind CSS`
+
+### Tools & Platforms
+`PostgreSQL` `MongoDB` `Docker` `Git` `GitHub` `Postman` `Vercel`
+
+### Development
+`VSCode` `REST APIs` `OAuth` `CI/CD (basics)` `Debugging` `Encryption` `Authentication`
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Dilip-Kashyp&show_icons=true&count_private=true&theme=react&border_radius=10&rank_icon=github" />
-  <img width="45%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dilip-Kashyp&theme=react&border_radius=10" />
-  <br/><br/>
-  <img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dilip-Kashyp&layout=compact&hide=html&theme=react&border_radius=10&langs_count=8" />
+  <img width="46%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Dilip-Kashyp&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <img width="46%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dilip-Kashyp&theme=react&border_radius=10" />
+  <br />
+  <img width="38%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dilip-Kashyp&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
 </div>
 
 ---
 
-### 🐍 GitHub Contributions Snake
+## Problem Solving Profiles
+
+- [LeetCode](https://leetcode.com/u/Dilip-Kashyp/)
+- [HackerRank](https://www.hackerrank.com/dilipkumar491249)
+- [Stack Overflow](https://stackoverflow.com/users/25244343/dilip-kumar)
+- [Dev.to Blog](https://dev.to/dilipkashyp)
+
+---
+
+## Personal Projects
+
+> A few selected works from my GitHub that showcase backend, frontend, and full-stack engineering:
+
+- **Scholarship Recommender (AI + NLP + PostgreSQL + Next.js)**  
+  Intelligent web app recommending scholarships based on user profile using Google Gemini.
+
+- **Job Portal (Node.js + PostgreSQL + Razorpay)**  
+  Built a job listing and application system with payment gateway integration and search filters.
+
+- **Chit Chat App (React + Firebase)**  
+  Real-time chat application with authentication and Firestore messaging.
+
+- **Course Management (Custom CMS + Next.js + Express)**  
+  Admin dashboard for managing live/recorded courses with session videos and encryption.
+
+---
+
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dilip-Kashyp/Dilip-Kashyp/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dilip-Kashyp/Dilip-Kashyp/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Dilip-Kashyp/Dilip-Kashyp/blob/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://github.com/Dilip-Kashyp/Dilip-Kashyp/blob/output/github-snake.svg" />
 </picture>
 
 ---
 
-<h3 align="center">💡 Always building, always learning. Let’s connect and build something amazing!</h3>
+<h3 align="center">Focused on building better systems, writing better code, and learning every day.</h3>
