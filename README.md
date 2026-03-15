@@ -1,90 +1,47 @@
-<h1 align="center">hi, Dilip here</h1>
-<p align="center">Software Engineer • Specializing Full Stack Development </p>
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-</p>
+I'm **Dilip Kumar**, a **Full Stack Engineer** building web applications, AI-powered tools, and scalable backend systems. I enjoy designing and developing products across the stack — turning ideas into reliable, production-ready applications.
 
-<div align="center">
+### What I spend most of my time doing
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dilip-Kashyp&color=green)&nbsp;&nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/Dilip-Kashyp?label=Follow&style=social)&nbsp;&nbsp;
-![Repos](https://img.shields.io/badge/Public%20Repos-19-informational)&nbsp;&nbsp;
-![Commits](https://img.shields.io/badge/Total%20Commits-🔥%203K+-important)
+- Building **backend APIs and services**
+- Developing **AI-powered features and automation tools**
+- Creating **modern frontend applications**
+- Engineering **scalable web platforms and deployments**
 
-</div>
+### Currently
 
----
+I'm working as a **Full Stack Engineer at Stryv.ai**, where I build customer-facing features and scalable product systems used by thousands of users. I collaborate with cross-functional teams to develop high-performance applications, integrate APIs, and improve product reliability.
 
-## About Me
+### Previously
 
-- Full Stack Developer Intern at **NexGen Elit**, building production-ready applications.
-- Specialized in **Backend Engineering**, API design, and system architecture.
-- Enthusiastic about writing clean, scalable code and solving real-world problems.
-- Passionate about **data structures**, open source, and building tools that empower others.
-- Currently exploring **DevOps tools, security practices**, and **cloud infrastructure.**
+I worked at **NexGen Elit** and as a **Freelance Full Stack Developer**, where I built several production platforms including:
 
----
+- Job portals with recruiter and candidate workflows  
+- E-commerce platforms with order management and payments  
+- Virtual learning platforms with real-time sessions and integrations  
 
-## Key Projects
+These projects included **secure payment integrations, scalable architecture, and real-time user experiences**.
 
-### [ScholarMatch AI](https://scholar-match-ai.vercel.app/) [`Next.js`, `Node.js`, `Express`, `TailwindCSS`, `Gemini AI`]
-AI-powered scholarship recommendation platform with CRUD APIs, secure backend, and user-focused UI.
 
-### [Goovo Event](https://goovo-event.vercel.app/) [`Next.js`, `Material UI`, `Pagination`, `Search`]
-Responsive event dashboard consuming a dynamic API with pagination, filtering, and modular components.
+## Tech Stack
 
-### Virtual Fitness Platform [`Next.js`, `Express`, `Tailwind`, `Google Calendar API`]
-Integrated Google Meet and Razorpay, allowing users to join virtual yoga sessions via an automated system.
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,materialui)](https://skillicons.dev)
 
----
+### Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,go)](https://skillicons.dev)
 
-<h2><img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="20" /> Technologies</h2>
+### Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 
-### Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+### DevOps & Tools
+[![Tools](https://skillicons.dev/icons?i=linux,git,github,postman,vscode,ubuntu)](https://skillicons.dev)
 
-### Frameworks & Libraries  
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-</p>
+### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=c,cpp,js,python)](https://skillicons.dev)
 
-### Tools & Platforms  
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
-### Databases  
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
----
-
+### Studying
+[![Languages](https://skillicons.dev/icons?i=go,docker,aws)](https://skillicons.dev)
 
 
 ## GitHub Stats
@@ -96,27 +53,23 @@ Integrated Google Meet and Razorpay, allowing users to join virtual yoga session
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dilip-Kashyp&layout=compact&hide=html&langs_count=8&theme=react&border_radius=10" width="40%" />
 </div>
 
----
+### Connect with me!
+   <a href="https://www.linkedin.com/in/dilip-kashyap/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
 
-## Contributions Activity
+### Employer?
+> [!IMPORTANT]  
+> <a href="" download>Download my resume</a>
+
+<p align="center">
+  Focused on quality engineering, scalable systems, and continuous learning.
+</p>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 <p align="center">
   <img src="https://github.com/Dilip-Kashyp/Dilip-Kashyp/blob/output/github-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
----
-
-## Contact
-
-- **Email**: dilipkumar.dev.official@gmail.com  
-- **LinkedIn**: [linkedin.com/in/dilip-kashyap](https://www.linkedin.com/in/dilip-kashyap)  
-- **GitHub**: [github.com/Dilip-Kashyp](https://github.com/Dilip-Kashyp)  
-- **Portfolio**: [dilip-kashyp.github.io](https://dilip-kashyp.github.io)  
-- **Resume**: [View PDF](https://dilip-kashyp.github.io/assets/Dilip_Kumar(Resume).pdf)
-
----
-
-
-<p align="center">
-  Focused on quality engineering, scalable systems, and continuous learning.
-</p>
