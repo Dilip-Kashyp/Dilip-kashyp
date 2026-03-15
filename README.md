@@ -4,7 +4,8 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=700&color=CFF4D2&center=true&vCenter=true&width=520&lines=Hello%2C+I'm+Dilip+Kumar;Software+Engineer;Full+Stack+Developer;Building+Scalable+Web+Applications"/>
 </a>
-</p>
+</p> 
+
 I'm **Dilip Kumar**, a **Full Stack Engineer** building web applications, AI-powered tools, and scalable backend systems. I enjoy designing and developing products across the stack — turning ideas into reliable, production-ready applications.
 
 ### What I spend most of my time doing
