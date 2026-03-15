@@ -1,4 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CFF4D2&height=120&section=header" alt="header"/>
 
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=700&color=CFF4D2&center=true&vCenter=true&width=520&lines=Hello%2C+I'm+Dilip+Kumar;Software+Engineer;Full+Stack+Developer;Building+Scalable+Web+Applications"/>
+</a>
+</p>
 I'm **Dilip Kumar**, a **Full Stack Engineer** building web applications, AI-powered tools, and scalable backend systems. I enjoy designing and developing products across the stack — turning ideas into reliable, production-ready applications.
 
 ### What I spend most of my time doing
@@ -60,14 +66,14 @@ These projects included **secure payment integrations, scalable architecture, an
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1yG0lwd388fNsuFjRxwv4D0moL4xb2h3n/view?usp=sharing" download>Download my resume</a>
 
 <p align="center">
   Focused on quality engineering, scalable systems, and continuous learning.
 </p>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CFF4D2&height=120&section=footer" alt="footer"/>
 
 <p align="center">
   <img src="https://github.com/Dilip-Kashyp/Dilip-Kashyp/blob/output/github-snake-dark.svg" alt="Contribution snake animation" />
