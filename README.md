@@ -11,17 +11,17 @@ I'm Dilip Kumar - Full Stack Engineer.  I build scalable web applications, backe
 
 ### What I usually work on
 
-- Backend Engineering — APIs, services, databases, system design
+- APIs, services, databases, system design
 
-- AI Integration — building intelligent features and automation tools
+- Building intelligent features and automation tools
 
-- Product Development — turning ideas into working products
+- Turning ideas into working products
 
-- Problem Solving — debugging issues and improving systems
+- Debugging issues and improving systems
 
-- User Understanding — identifying real customer problems and solving them with technology
+- Identifying real customer problems and solving them with technology
 
-- Architecture Learning — exploring scalable software architecture and design patterns
+- Exploring scalable software architecture and design patterns
 ### Currently
 
 I'm working as a **Full Stack Engineer at Stryv.ai**, where I build customer-facing features and scalable product systems used by thousands of users. I collaborate with cross-functional teams to develop high-performance applications, integrate APIs, and improve product reliability.
