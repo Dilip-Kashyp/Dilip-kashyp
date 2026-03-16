@@ -61,11 +61,13 @@ These projects included **secure payment integrations, scalable architecture, an
 ### Github stats
 <div align="center" style="display:flex; justify-content:space-between; width:60%;">
 
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dilip-Kashyp&theme=react&border_radius=10" height="200"/>
+<!-- <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dilip-Kashyp&theme=react&border_radius=10" height="200"/>
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dilip-Kashyp&layout=compact&hide=html&langs_count=8&theme=react&border_radius=10" height="200"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dilip-Kashyp&layout=compact&hide=html&langs_count=8&theme=react&border_radius=10" height="200"/> -->
 
+![Footprint Card](https://raw.githubusercontent.com/Dilip-Kashyp/Dilip-kashyp/footprint-output/card-extended-minimal.svg)
 </div>
+
 
 ### Connect with me!
    <a href="https://www.linkedin.com/in/dilip-kashyap/">
