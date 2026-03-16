@@ -6,15 +6,22 @@
 </a>
 </p> 
 
-I'm **Dilip Kumar**, a **Full Stack Engineer** building web applications, AI-powered tools, and scalable backend systems. I enjoy designing and developing products across the stack — turning ideas into reliable, production-ready applications.
+### Who i am?
+I'm Dilip Kumar - Full Stack Engineer.  I build scalable web applications, backend systems, and AI-powered tools. I enjoy solving real-world problems by combining software engineering, system design, and automation. Most of my work focuses on creating reliable products that move from idea → prototype → production.
 
-### What I spend most of my time doing
+### What I usually work on
 
-- Building **backend APIs and services**
-- Developing **AI-powered features and automation tools**
-- Creating **modern frontend applications**
-- Engineering **scalable web platforms and deployments**
+- Backend Engineering — APIs, services, databases, system design
 
+- AI Integration — building intelligent features and automation tools
+
+- Product Development — turning ideas into working products
+
+- Problem Solving — debugging issues and improving systems
+
+- User Understanding — identifying real customer problems and solving them with technology
+
+- Architecture Learning — exploring scalable software architecture and design patterns
 ### Currently
 
 I'm working as a **Full Stack Engineer at Stryv.ai**, where I build customer-facing features and scalable product systems used by thousands of users. I collaborate with cross-functional teams to develop high-performance applications, integrate APIs, and improve product reliability.
@@ -51,13 +58,13 @@ These projects included **secure payment integrations, scalable architecture, an
 [![Languages](https://skillicons.dev/icons?i=go,docker,aws)](https://skillicons.dev)
 
 
-## GitHub Stats
+### Github stats
+<div align="center" style="display:flex; justify-content:space-between; width:60%;">
 
-<div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Dilip-Kashyp&show_icons=true&count_private=true&theme=react&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dilip-Kashyp&theme=react&border_radius=10" width="48%" />
-  <br /><br />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dilip-Kashyp&layout=compact&hide=html&langs_count=8&theme=react&border_radius=10" width="40%" />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dilip-Kashyp&theme=react&border_radius=10" height="200"/>
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dilip-Kashyp&layout=compact&hide=html&langs_count=8&theme=react&border_radius=10" height="200"/>
+
 </div>
 
 ### Connect with me!
