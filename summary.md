@@ -1,6 +1,6 @@
 # OSS Footprint: @Dilip-Kashyp
 
-*Generated on March 22, 2026*
+*Generated on March 29, 2026*
 
 ## Impact Snapshot
 
@@ -8,8 +8,8 @@
 - 📋 **0** PR Reviews
 - 🐛 **0** Issues Opened
 - 💬 **3** Issue Comments
-- 📦 **52** Projects Owned
-- ⭐ **28** Stars Earned
+- 📦 **50** Projects Owned
+- ⭐ **27** Stars Earned
 
 [View all external PRs authored by @Dilip-Kashyp](https://github.com/pulls?q=is%3Apr+author%3ADilip-Kashyp+-user%3ADilip-Kashyp)
 
@@ -24,7 +24,6 @@
 - [`Dilip-Kashyp/E-commerce_Backend`](https://github.com/Dilip-Kashyp/E-commerce_Backend) · ⭐ 1 · 🍴 0
 - [`Dilip-Kashyp/Golang`](https://github.com/Dilip-Kashyp/Golang) · ⭐ 1 · 🍴 0
 - [`Dilip-Kashyp/Goovo-Event`](https://github.com/Dilip-Kashyp/Goovo-Event) · ⭐ 1 · 🍴 0
-- [`Dilip-Kashyp/Job-Portal-BE`](https://github.com/Dilip-Kashyp/Job-Portal-BE) · ⭐ 1 · 🍴 0
 - [`Dilip-Kashyp/LiaPlus-AI-Assignment`](https://github.com/Dilip-Kashyp/LiaPlus-AI-Assignment) · ⭐ 1 · 🍴 0
 - [`Dilip-Kashyp/Mic-Animation`](https://github.com/Dilip-Kashyp/Mic-Animation) · ⭐ 1 · 🍴 0
 - [`Dilip-Kashyp/SRE`](https://github.com/Dilip-Kashyp/SRE) · ⭐ 1 · 🍴 0
@@ -60,7 +59,6 @@
 - [`Dilip-Kashyp/fullstackopen-practice`](https://github.com/Dilip-Kashyp/fullstackopen-practice) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/java`](https://github.com/Dilip-Kashyp/java) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/leedcode`](https://github.com/Dilip-Kashyp/leedcode) · ⭐ 0 · 🍴 0
-- [`Dilip-Kashyp/personalweb`](https://github.com/Dilip-Kashyp/personalweb) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/python-`](https://github.com/Dilip-Kashyp/python-) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/route-genie-app`](https://github.com/Dilip-Kashyp/route-genie-app) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/url-shortener-be`](https://github.com/Dilip-Kashyp/url-shortener-be) · ⭐ 0 · 🍴 0

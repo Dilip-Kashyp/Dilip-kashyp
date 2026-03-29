@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1",
-  "generatedAt": "2026-03-22T02:04:52.67991971Z",
+  "generatedAt": "2026-03-29T02:12:56.633061381Z",
   "username": "Dilip-Kashyp",
   "stats": {
     "PRsOpened": 2,
@@ -11,9 +11,9 @@
     "DiscussionsOpened": 0,
     "DiscussionComments": 0,
     "TotalCommits": 0,
-    "ProjectsOwned": 52,
-    "StarsEarned": 28,
-    "TotalReposContributedTo": 55
+    "ProjectsOwned": 50,
+    "StarsEarned": 27,
+    "TotalReposContributedTo": 53
   },
   "totalEvents": 5,
   "eventsByType": {
@@ -151,16 +151,6 @@
     {
       "Repo": "Dilip-Kashyp/Goovo-Event",
       "URL": "https://github.com/Dilip-Kashyp/Goovo-Event",
-      "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=96ddc143ee9b80a151aa287e2e6d235b0e7e9fc2\u0026v=4",
-      "Stars": 1,
-      "Forks": 0,
-      "BaseScore": 2500,
-      "PopularityRaw": 1.3010299956639813,
-      "Score": 3252.574989159953
-    },
-    {
-      "Repo": "Dilip-Kashyp/Job-Portal-BE",
-      "URL": "https://github.com/Dilip-Kashyp/Job-Portal-BE",
       "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=96ddc143ee9b80a151aa287e2e6d235b0e7e9fc2\u0026v=4",
       "Stars": 1,
       "Forks": 0,
@@ -511,16 +501,6 @@
     {
       "Repo": "Dilip-Kashyp/leedcode",
       "URL": "https://github.com/Dilip-Kashyp/leedcode",
-      "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=96ddc143ee9b80a151aa287e2e6d235b0e7e9fc2\u0026v=4",
-      "Stars": 0,
-      "Forks": 0,
-      "BaseScore": 2500,
-      "PopularityRaw": 1,
-      "Score": 2500
-    },
-    {
-      "Repo": "Dilip-Kashyp/personalweb",
-      "URL": "https://github.com/Dilip-Kashyp/personalweb",
       "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=96ddc143ee9b80a151aa287e2e6d235b0e7e9fc2\u0026v=4",
       "Stars": 0,
       "Forks": 0,
