@@ -7,34 +7,18 @@
 </p> 
 
 ### Who i am?
-I'm Dilip Kumar - Full Stack Engineer.  I build scalable web applications, backend systems, and AI-powered tools. I enjoy solving real-world problems by combining software engineering, system design, and automation. Most of my work focuses on creating reliable products that move from idea → prototype → production.
+I’m Dilip Kumar, a Full Stack Engineer focused on building scalable web applications, backend systems, and AI-powered tools. I enjoy solving real-world problems by combining software engineering, system design, and automation, with a strong focus on creating reliable products that move from concept to production.
 
-### What I usually work on
+I primarily work on APIs, backend services, databases, and system design, with a strong focus on building scalable and maintainable architectures. I build intelligent features and automation tools, turn ideas into functional products, debug and improve systems, and identify real customer problems to solve them with technology. My core stack includes modern web technologies, backend frameworks, databases, and cloud-based systems.
 
-- APIs, services, databases, system design
-
-- Building intelligent features and automation tools
-
-- Turning ideas into working products
-
-- Debugging issues and improving systems
-
-- Identifying real customer problems and solving them with technology
-
-- Exploring scalable software architecture and design patterns
 ### Currently
-
-I'm working as a **Full Stack Engineer at Stryv.ai**, where I build customer-facing features and scalable product systems used by thousands of users. I collaborate with cross-functional teams to develop high-performance applications, integrate APIs, and improve product reliability.
+I’m working as a Full Stack Engineer at Stryv.ai, where I develop customer-facing features and scalable product systems used by thousands of users. I collaborate with cross-functional teams to build high-performance applications, integrate APIs, and improve system reliability and performance.
 
 ### Previously
+I worked at NexGen Elit and as a Freelance Full Stack Developer, where I built production-level platforms including job portals, e-commerce systems, and virtual learning platforms with real-time features. These projects involved secure payment integrations, scalable architectures, and real-time user experiences.
 
-I worked at **NexGen Elit** and as a **Freelance Full Stack Developer**, where I built several production platforms including:
 
-- Job portals with recruiter and candidate workflows  
-- E-commerce platforms with order management and payments  
-- Virtual learning platforms with real-time sessions and integrations  
 
-These projects included **secure payment integrations, scalable architecture, and real-time user experiences**.
 
 
 ## Tech Stack
