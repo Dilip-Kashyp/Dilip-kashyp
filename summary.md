@@ -1,6 +1,6 @@
 # OSS Footprint: @Dilip-Kashyp
 
-*Generated on April 12, 2026*
+*Generated on April 19, 2026*
 
 ## Impact Snapshot
 
@@ -46,6 +46,7 @@
 - [`Dilip-Kashyp/GYM`](https://github.com/Dilip-Kashyp/GYM) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/Javascript`](https://github.com/Dilip-Kashyp/Javascript) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/Job-Portal--BE`](https://github.com/Dilip-Kashyp/Job-Portal--BE) · ⭐ 0 · 🍴 0
+- [`Dilip-Kashyp/Jugaadlink`](https://github.com/Dilip-Kashyp/Jugaadlink) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/My_Blogs`](https://github.com/Dilip-Kashyp/My_Blogs) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/Port`](https://github.com/Dilip-Kashyp/Port) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/ResuScore-ai`](https://github.com/Dilip-Kashyp/ResuScore-ai) · ⭐ 0 · 🍴 0
@@ -58,11 +59,10 @@
 - [`Dilip-Kashyp/all_program`](https://github.com/Dilip-Kashyp/all_program) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/fullstackopen-practice`](https://github.com/Dilip-Kashyp/fullstackopen-practice) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/java`](https://github.com/Dilip-Kashyp/java) · ⭐ 0 · 🍴 0
+- [`Dilip-Kashyp/jugaadlink-be`](https://github.com/Dilip-Kashyp/jugaadlink-be) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/leedcode`](https://github.com/Dilip-Kashyp/leedcode) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/python-`](https://github.com/Dilip-Kashyp/python-) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/route-genie-app`](https://github.com/Dilip-Kashyp/route-genie-app) · ⭐ 0 · 🍴 0
-- [`Dilip-Kashyp/url-shortener-be`](https://github.com/Dilip-Kashyp/url-shortener-be) · ⭐ 0 · 🍴 0
-- [`Dilip-Kashyp/url-shortener-fe`](https://github.com/Dilip-Kashyp/url-shortener-fe) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/weather`](https://github.com/Dilip-Kashyp/weather) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/working-clock-`](https://github.com/Dilip-Kashyp/working-clock-) · ⭐ 0 · 🍴 0
 
