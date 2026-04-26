@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1",
-  "generatedAt": "2026-04-19T02:31:51.860607221Z",
+  "generatedAt": "2026-04-26T02:35:24.573832686Z",
   "username": "Dilip-Kashyp",
   "stats": {
     "PRsOpened": 2,
@@ -11,9 +11,9 @@
     "DiscussionsOpened": 0,
     "DiscussionComments": 0,
     "TotalCommits": 0,
-    "ProjectsOwned": 50,
+    "ProjectsOwned": 52,
     "StarsEarned": 27,
-    "TotalReposContributedTo": 53
+    "TotalReposContributedTo": 55
   },
   "totalEvents": 5,
   "eventsByType": {
@@ -331,6 +331,26 @@
     {
       "Repo": "Dilip-Kashyp/C",
       "URL": "https://github.com/Dilip-Kashyp/C",
+      "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=96ddc143ee9b80a151aa287e2e6d235b0e7e9fc2\u0026v=4",
+      "Stars": 0,
+      "Forks": 0,
+      "BaseScore": 2500,
+      "PopularityRaw": 1,
+      "Score": 2500
+    },
+    {
+      "Repo": "Dilip-Kashyp/ContriHub",
+      "URL": "https://github.com/Dilip-Kashyp/ContriHub",
+      "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=96ddc143ee9b80a151aa287e2e6d235b0e7e9fc2\u0026v=4",
+      "Stars": 0,
+      "Forks": 0,
+      "BaseScore": 2500,
+      "PopularityRaw": 1,
+      "Score": 2500
+    },
+    {
+      "Repo": "Dilip-Kashyp/ContriHub-be",
+      "URL": "https://github.com/Dilip-Kashyp/ContriHub-be",
       "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=96ddc143ee9b80a151aa287e2e6d235b0e7e9fc2\u0026v=4",
       "Stars": 0,
       "Forks": 0,
