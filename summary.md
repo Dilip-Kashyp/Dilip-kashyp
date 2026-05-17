@@ -1,6 +1,6 @@
 # OSS Footprint: @Dilip-Kashyp
 
-*Generated on May 10, 2026*
+*Generated on May 17, 2026*
 
 ## Impact Snapshot
 
@@ -46,7 +46,6 @@
 - [`Dilip-Kashyp/ContriHub-be`](https://github.com/Dilip-Kashyp/ContriHub-be) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/GO-Practice`](https://github.com/Dilip-Kashyp/GO-Practice) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/GYM`](https://github.com/Dilip-Kashyp/GYM) · ⭐ 0 · 🍴 0
-- [`Dilip-Kashyp/Generative-UI-Global-Hackathon`](https://github.com/Dilip-Kashyp/Generative-UI-Global-Hackathon) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/Javascript`](https://github.com/Dilip-Kashyp/Javascript) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/Job-Portal--BE`](https://github.com/Dilip-Kashyp/Job-Portal--BE) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/Jugaadlink`](https://github.com/Dilip-Kashyp/Jugaadlink) · ⭐ 0 · 🍴 0
@@ -60,6 +59,7 @@
 - [`Dilip-Kashyp/Whack-the-mole`](https://github.com/Dilip-Kashyp/Whack-the-mole) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/Word_counter`](https://github.com/Dilip-Kashyp/Word_counter) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/all_program`](https://github.com/Dilip-Kashyp/all_program) · ⭐ 0 · 🍴 0
+- [`Dilip-Kashyp/e-shop`](https://github.com/Dilip-Kashyp/e-shop) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/fullstackopen-practice`](https://github.com/Dilip-Kashyp/fullstackopen-practice) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/java`](https://github.com/Dilip-Kashyp/java) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/jugaadlink-be`](https://github.com/Dilip-Kashyp/jugaadlink-be) · ⭐ 0 · 🍴 0
