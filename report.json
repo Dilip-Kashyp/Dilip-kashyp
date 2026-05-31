@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1",
-  "generatedAt": "2026-05-24T03:26:24.315455323Z",
+  "generatedAt": "2026-05-31T03:37:56.396656916Z",
   "username": "Dilip-Kashyp",
   "stats": {
     "PRsOpened": 3,
@@ -11,9 +11,9 @@
     "DiscussionsOpened": 0,
     "DiscussionComments": 0,
     "TotalCommits": 0,
-    "ProjectsOwned": 54,
+    "ProjectsOwned": 53,
     "StarsEarned": 27,
-    "TotalReposContributedTo": 58
+    "TotalReposContributedTo": 57
   },
   "totalEvents": 6,
   "eventsByType": {
@@ -570,16 +570,6 @@
     {
       "Repo": "Dilip-Kashyp/python-",
       "URL": "https://github.com/Dilip-Kashyp/python-",
-      "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=931958436307f07a465cd1d4f2094f9cba6980b7\u0026v=4",
-      "Stars": 0,
-      "Forks": 0,
-      "BaseScore": 2500,
-      "PopularityRaw": 1,
-      "Score": 2500
-    },
-    {
-      "Repo": "Dilip-Kashyp/react-hyd-quiz",
-      "URL": "https://github.com/Dilip-Kashyp/react-hyd-quiz",
       "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=931958436307f07a465cd1d4f2094f9cba6980b7\u0026v=4",
       "Stars": 0,
       "Forks": 0,
