@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1",
-  "generatedAt": "2026-06-14T03:52:52.681666463Z",
+  "generatedAt": "2026-06-21T04:00:09.72378757Z",
   "username": "Dilip-Kashyp",
   "stats": {
     "PRsOpened": 3,
@@ -630,7 +630,7 @@
     {
       "repo": "reacthyderabad/freshgradprep",
       "repoURL": "https://github.com/reacthyderabad/freshgradprep",
-      "impactScore": 4.557507201905658,
+      "impactScore": 4.6020599913279625,
       "prCount": 0
     }
   ],
