@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1",
-  "generatedAt": "2026-07-19T02:30:26.315382315Z",
+  "generatedAt": "2026-07-26T02:34:35.141940708Z",
   "username": "Dilip-Kashyp",
   "stats": {
     "PRsOpened": 3,
@@ -11,9 +11,9 @@
     "DiscussionsOpened": 0,
     "DiscussionComments": 0,
     "TotalCommits": 0,
-    "ProjectsOwned": 53,
+    "ProjectsOwned": 54,
     "StarsEarned": 27,
-    "TotalReposContributedTo": 57
+    "TotalReposContributedTo": 58
   },
   "totalEvents": 6,
   "eventsByType": {
@@ -560,6 +560,16 @@
     {
       "Repo": "Dilip-Kashyp/leedcode",
       "URL": "https://github.com/Dilip-Kashyp/leedcode",
+      "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=931958436307f07a465cd1d4f2094f9cba6980b7\u0026v=4",
+      "Stars": 0,
+      "Forks": 0,
+      "BaseScore": 2500,
+      "PopularityRaw": 1,
+      "Score": 2500
+    },
+    {
+      "Repo": "Dilip-Kashyp/neetcode-submissions",
+      "URL": "https://github.com/Dilip-Kashyp/neetcode-submissions",
       "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=931958436307f07a465cd1d4f2094f9cba6980b7\u0026v=4",
       "Stars": 0,
       "Forks": 0,

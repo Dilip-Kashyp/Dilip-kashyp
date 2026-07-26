@@ -1,6 +1,6 @@
 # OSS Footprint: @Dilip-Kashyp
 
-*Generated on July 19, 2026*
+*Generated on July 26, 2026*
 
 ## Impact Snapshot
 
@@ -8,7 +8,7 @@
 - 📋 **0** PR Reviews
 - 🐛 **0** Issues Opened
 - 💬 **3** Issue Comments
-- 📦 **53** Projects Owned
+- 📦 **54** Projects Owned
 - ⭐ **27** Stars Earned
 
 [View all external PRs authored by @Dilip-Kashyp](https://github.com/pulls?q=is%3Apr+author%3ADilip-Kashyp+-user%3ADilip-Kashyp)
@@ -64,6 +64,7 @@
 - [`Dilip-Kashyp/java`](https://github.com/Dilip-Kashyp/java) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/jugaadlink-be`](https://github.com/Dilip-Kashyp/jugaadlink-be) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/leedcode`](https://github.com/Dilip-Kashyp/leedcode) · ⭐ 0 · 🍴 0
+- [`Dilip-Kashyp/neetcode-submissions`](https://github.com/Dilip-Kashyp/neetcode-submissions) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/python-`](https://github.com/Dilip-Kashyp/python-) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/route-genie-app`](https://github.com/Dilip-Kashyp/route-genie-app) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/weather`](https://github.com/Dilip-Kashyp/weather) · ⭐ 0 · 🍴 0
