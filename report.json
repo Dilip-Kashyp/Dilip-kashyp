@@ -1,9 +1,9 @@
 {
   "schemaVersion": "1",
-  "generatedAt": "2026-08-02T02:33:53.550720391Z",
+  "generatedAt": "2026-08-09T01:27:15.111569161Z",
   "username": "Dilip-Kashyp",
   "stats": {
-    "PRsOpened": 3,
+    "PRsOpened": 7,
     "PRReviews": 0,
     "PRReviewComments": 0,
     "IssuesOpened": 0,
@@ -11,16 +11,52 @@
     "DiscussionsOpened": 0,
     "DiscussionComments": 0,
     "TotalCommits": 0,
-    "ProjectsOwned": 55,
+    "ProjectsOwned": 54,
     "StarsEarned": 27,
     "TotalReposContributedTo": 59
   },
-  "totalEvents": 6,
+  "totalEvents": 10,
   "eventsByType": {
     "ISSUE_COMMENT": 3,
-    "PR": 3
+    "PR": 7
   },
   "events": [
+    {
+      "Type": "PR",
+      "Repo": "agrawalanshika307/SlackBot",
+      "Title": "Add retrieval-augmented generation with local vector store",
+      "URL": "https://github.com/agrawalanshika307/SlackBot/pull/1",
+      "CreatedAt": "2026-08-02T11:49:11Z",
+      "ReactionsCount": 0,
+      "Merged": true
+    },
+    {
+      "Type": "PR",
+      "Repo": "reacthyderabad/freshgradprep",
+      "Title": "Add Dilip Kumar as a maintainer in README",
+      "URL": "https://github.com/reacthyderabad/freshgradprep/pull/59",
+      "CreatedAt": "2026-08-02T09:31:03Z",
+      "ReactionsCount": 0,
+      "Merged": true
+    },
+    {
+      "Type": "PR",
+      "Repo": "reacthyderabad/freshgradprep",
+      "Title": "Update/fg 0000/update readme",
+      "URL": "https://github.com/reacthyderabad/freshgradprep/pull/58",
+      "CreatedAt": "2026-08-02T08:35:44Z",
+      "ReactionsCount": 0,
+      "Merged": false
+    },
+    {
+      "Type": "PR",
+      "Repo": "reacthyderabad/freshgradprep",
+      "Title": "Update README.md, included new maintainer and collaborator",
+      "URL": "https://github.com/reacthyderabad/freshgradprep/pull/57",
+      "CreatedAt": "2026-08-02T08:26:22Z",
+      "ReactionsCount": 0,
+      "Merged": false
+    },
     {
       "Type": "PR",
       "Repo": "vsamhita2028/virtual-ticket-generator",
@@ -518,16 +554,6 @@
       "Score": 2500
     },
     {
-      "Repo": "Dilip-Kashyp/bot",
-      "URL": "https://github.com/Dilip-Kashyp/bot",
-      "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=931958436307f07a465cd1d4f2094f9cba6980b7\u0026v=4",
-      "Stars": 0,
-      "Forks": 0,
-      "BaseScore": 2500,
-      "PopularityRaw": 1,
-      "Score": 2500
-    },
-    {
       "Repo": "Dilip-Kashyp/e-shop",
       "URL": "https://github.com/Dilip-Kashyp/e-shop",
       "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=931958436307f07a465cd1d4f2094f9cba6980b7\u0026v=4",
@@ -630,6 +656,12 @@
   ],
   "topRepos": [
     {
+      "repo": "reacthyderabad/freshgradprep",
+      "repoURL": "https://github.com/reacthyderabad/freshgradprep",
+      "impactScore": 92.69054919783653,
+      "prCount": 3
+    },
+    {
       "repo": "khushi-joshi-05/Food-ordering-website",
       "repoURL": "https://github.com/khushi-joshi-05/Food-ordering-website",
       "impactScore": 73.33333333333333,
@@ -642,16 +674,16 @@
       "prCount": 1
     },
     {
-      "repo": "vsamhita2028/virtual-ticket-generator",
-      "repoURL": "https://github.com/vsamhita2028/virtual-ticket-generator",
+      "repo": "agrawalanshika307/SlackBot",
+      "repoURL": "https://github.com/agrawalanshika307/SlackBot",
       "impactScore": 15,
       "prCount": 1
     },
     {
-      "repo": "reacthyderabad/freshgradprep",
-      "repoURL": "https://github.com/reacthyderabad/freshgradprep",
-      "impactScore": 4.829946695941636,
-      "prCount": 0
+      "repo": "vsamhita2028/virtual-ticket-generator",
+      "repoURL": "https://github.com/vsamhita2028/virtual-ticket-generator",
+      "impactScore": 15,
+      "prCount": 1
     }
   ],
   "externalPRsUrl": "https://github.com/pulls?q=is:pr+author:Dilip-Kashyp+-user:Dilip-Kashyp"
