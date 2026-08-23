@@ -1,26 +1,80 @@
 {
   "schemaVersion": "1",
-  "generatedAt": "2026-08-16T01:09:14.642496926Z",
+  "generatedAt": "2026-08-23T01:10:01.404554874Z",
   "username": "Dilip-Kashyp",
   "stats": {
-    "PRsOpened": 7,
+    "PRsOpened": 9,
     "PRReviews": 0,
     "PRReviewComments": 0,
     "IssuesOpened": 0,
-    "IssueComments": 3,
+    "IssueComments": 7,
     "DiscussionsOpened": 0,
     "DiscussionComments": 0,
     "TotalCommits": 0,
-    "ProjectsOwned": 54,
+    "ProjectsOwned": 55,
     "StarsEarned": 27,
-    "TotalReposContributedTo": 59
+    "TotalReposContributedTo": 60
   },
-  "totalEvents": 10,
+  "totalEvents": 16,
   "eventsByType": {
-    "ISSUE_COMMENT": 3,
-    "PR": 7
+    "ISSUE_COMMENT": 7,
+    "PR": 9
   },
   "events": [
+    {
+      "Type": "ISSUE_COMMENT",
+      "Repo": "reacthyderabad/freshgradprep",
+      "Title": "Standardise the Card Sizes in the Target Audience Section",
+      "URL": "https://github.com/reacthyderabad/freshgradprep/issues/56#issuecomment-5333108546",
+      "CreatedAt": "2026-08-18T19:36:39Z",
+      "ReactionsCount": 0,
+      "Merged": false
+    },
+    {
+      "Type": "PR",
+      "Repo": "reacthyderabad/freshgradprep",
+      "Title": "refactor: enhance AudienceSection layout and styling for improved rea…",
+      "URL": "https://github.com/reacthyderabad/freshgradprep/pull/68",
+      "CreatedAt": "2026-08-18T19:34:52Z",
+      "ReactionsCount": 0,
+      "Merged": true
+    },
+    {
+      "Type": "ISSUE_COMMENT",
+      "Repo": "reacthyderabad/freshgradprep",
+      "Title": "Bring a More Human Tone to Testimonials",
+      "URL": "https://github.com/reacthyderabad/freshgradprep/issues/47#issuecomment-5333041884",
+      "CreatedAt": "2026-08-18T19:30:19Z",
+      "ReactionsCount": 0,
+      "Merged": false
+    },
+    {
+      "Type": "PR",
+      "Repo": "reacthyderabad/freshgradprep",
+      "Title": "refactor: update testimonials for clarity and tone",
+      "URL": "https://github.com/reacthyderabad/freshgradprep/pull/65",
+      "CreatedAt": "2026-08-18T18:57:19Z",
+      "ReactionsCount": 0,
+      "Merged": true
+    },
+    {
+      "Type": "ISSUE_COMMENT",
+      "Repo": "reacthyderabad/freshgradprep",
+      "Title": "Bring a More Human Tone to Testimonials",
+      "URL": "https://github.com/reacthyderabad/freshgradprep/issues/47#issuecomment-5332426594",
+      "CreatedAt": "2026-08-18T18:32:59Z",
+      "ReactionsCount": 0,
+      "Merged": false
+    },
+    {
+      "Type": "ISSUE_COMMENT",
+      "Repo": "reacthyderabad/freshgradprep",
+      "Title": "Standardise the Card Sizes in the Target Audience Section",
+      "URL": "https://github.com/reacthyderabad/freshgradprep/issues/56#issuecomment-5332418744",
+      "CreatedAt": "2026-08-18T18:32:14Z",
+      "ReactionsCount": 0,
+      "Merged": false
+    },
     {
       "Type": "PR",
       "Repo": "agrawalanshika307/SlackBot",
@@ -374,6 +428,16 @@
       "Score": 2500
     },
     {
+      "Repo": "Dilip-Kashyp/Atles",
+      "URL": "https://github.com/Dilip-Kashyp/Atles",
+      "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=931958436307f07a465cd1d4f2094f9cba6980b7\u0026v=4",
+      "Stars": 0,
+      "Forks": 0,
+      "BaseScore": 2500,
+      "PopularityRaw": 1,
+      "Score": 2500
+    },
+    {
       "Repo": "Dilip-Kashyp/C",
       "URL": "https://github.com/Dilip-Kashyp/C",
       "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=931958436307f07a465cd1d4f2094f9cba6980b7\u0026v=4",
@@ -658,8 +722,8 @@
     {
       "repo": "reacthyderabad/freshgradprep",
       "repoURL": "https://github.com/reacthyderabad/freshgradprep",
-      "impactScore": 92.69054919783653,
-      "prCount": 3
+      "impactScore": 179.22870732659166,
+      "prCount": 5
     },
     {
       "repo": "khushi-joshi-05/Food-ordering-website",
