@@ -7,7 +7,7 @@
 </p> 
 
 ### Who i am?
-I’m Dilip Kumar, a Full Stack Engineer focused on building scalable web applications, backend systems, and AI-powered tools. I enjoy solving real-world problems by combining software engineering, system design, and automation, with a strong focus on creating reliable products that move from concept to production.
+I’m a Full Stack Engineer focused on building scalable web applications, backend systems, and AI-powered tools. I enjoy solving real-world problems by combining software engineering, system design, and automation, with a strong focus on creating reliable products that move from concept to production.
 
 I primarily work on APIs, backend services, databases, and system design, with a strong focus on building scalable and maintainable architectures. I build intelligent features and automation tools, turn ideas into functional products, debug and improve systems, and identify real customer problems to solve them with technology. My core stack includes modern web technologies, backend frameworks, databases, and cloud-based systems.
 
