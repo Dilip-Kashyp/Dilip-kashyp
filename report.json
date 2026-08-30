@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1",
-  "generatedAt": "2026-08-23T01:10:01.404554874Z",
+  "generatedAt": "2026-08-30T03:37:31.120836151Z",
   "username": "Dilip-Kashyp",
   "stats": {
     "PRsOpened": 9,
@@ -11,9 +11,9 @@
     "DiscussionsOpened": 0,
     "DiscussionComments": 0,
     "TotalCommits": 0,
-    "ProjectsOwned": 55,
+    "ProjectsOwned": 56,
     "StarsEarned": 27,
-    "TotalReposContributedTo": 60
+    "TotalReposContributedTo": 61
   },
   "totalEvents": 16,
   "eventsByType": {
@@ -660,6 +660,16 @@
     {
       "Repo": "Dilip-Kashyp/leedcode",
       "URL": "https://github.com/Dilip-Kashyp/leedcode",
+      "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=931958436307f07a465cd1d4f2094f9cba6980b7\u0026v=4",
+      "Stars": 0,
+      "Forks": 0,
+      "BaseScore": 2500,
+      "PopularityRaw": 1,
+      "Score": 2500
+    },
+    {
+      "Repo": "Dilip-Kashyp/my-notes",
+      "URL": "https://github.com/Dilip-Kashyp/my-notes",
       "AvatarURL": "https://avatars.githubusercontent.com/u/108999605?u=931958436307f07a465cd1d4f2094f9cba6980b7\u0026v=4",
       "Stars": 0,
       "Forks": 0,
