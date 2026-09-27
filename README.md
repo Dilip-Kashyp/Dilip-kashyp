@@ -6,16 +6,31 @@
 </a>
 </p> 
 
-### Who i am?
-I’m a Full Stack Engineer focused on building scalable web applications, backend systems, and AI-powered tools. I enjoy solving real-world problems by combining software engineering, system design, and automation, with a strong focus on creating reliable products that move from concept to production.
+### Who I am
 
-I primarily work on APIs, backend services, databases, and system design, with a strong focus on building scalable and maintainable architectures. I build intelligent features and automation tools, turn ideas into functional products, debug and improve systems, and identify real customer problems to solve them with technology. My core stack includes modern web technologies, backend frameworks, databases, and cloud-based systems.
+I’m a Full Stack Engineer with 2+ years of experience building web applications, backend services, and AI-based tools. I like solving real problems and working on a feature from the initial idea to the final product.
+
+I mostly work with React, Next.js, Python, FastAPI, Node.js, Go, PostgreSQL, Redis, Docker, and AWS. My work covers frontend development, backend APIs, databases, authentication, integrations, deployment, and automation.
+
+Over time, I’ve become more interested in backend engineering, system design, and understanding how different parts of a system work together. I also work with AI technologies such as LLMs, OCR, embeddings, and document processing to build useful features rather than just experimenting with AI APIs.
 
 ### Currently
-I’m working as a Full Stack Engineer at Stryv.ai, where I develop customer-facing features and scalable product systems used by thousands of users. I collaborate with cross-functional teams to build high-performance applications, integrate APIs, and improve system reliability and performance.
+
+I’m working as a Full Stack Engineer at Stryv.ai. I work on customer-facing features, backend services, APIs, and automation.
+
+I’ve worked on a CRM used by 100K+ users and collaborated with a 20+ member team across development, design, and testing. I also worked on a document verification pipeline that processed around 160K documents in one month and could process up to 4 documents per second.
+
+My current work also involves debugging existing systems, improving features, integrating APIs, and working with cloud and AI-based services.
 
 ### Previously
-I worked at NexGen Elit and as a Freelance Full Stack Developer, where I built production-level platforms including job portals, e-commerce systems, and virtual learning platforms with real-time features. These projects involved secure payment integrations, scalable architectures, and real-time user experiences.
+
+Before Stryv.ai, I worked as a Full Stack Engineer at NexGen Elit. I worked on a job portal where recruiters could post jobs and students could apply through skill-based assessments. I also integrated Razorpay for payments and worked on a virtual fitness platform using Next.js, Node.js, Express.js, Material UI, and Tailwind CSS.
+
+I have also built projects independently, including AI-powered applications, backend systems, URL shorteners, developer tools, and applications using Go, PostgreSQL, Redis, Docker, and LLMs.
+
+Currently, I’m focusing on getting deeper into backend engineering, system design, distributed systems, and AI engineering.
+
+
 
 
 
