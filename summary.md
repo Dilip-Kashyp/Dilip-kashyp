@@ -1,6 +1,6 @@
 # OSS Footprint: @Dilip-Kashyp
 
-*Generated on September 27, 2026*
+*Generated on October 4, 2026*
 
 ## Impact Snapshot
 
@@ -8,7 +8,7 @@
 - 📋 **0** PR Reviews
 - 🐛 **0** Issues Opened
 - 💬 **7** Issue Comments
-- 📦 **57** Projects Owned
+- 📦 **56** Projects Owned
 - ⭐ **27** Stars Earned
 
 [View all external PRs authored by @Dilip-Kashyp](https://github.com/pulls?q=is%3Apr+author%3ADilip-Kashyp+-user%3ADilip-Kashyp)
@@ -60,7 +60,6 @@
 - [`Dilip-Kashyp/Whack-the-mole`](https://github.com/Dilip-Kashyp/Whack-the-mole) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/Word_counter`](https://github.com/Dilip-Kashyp/Word_counter) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/all_program`](https://github.com/Dilip-Kashyp/all_program) · ⭐ 0 · 🍴 0
-- [`Dilip-Kashyp/chatbot`](https://github.com/Dilip-Kashyp/chatbot) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/e-shop`](https://github.com/Dilip-Kashyp/e-shop) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/fullstackopen-practice`](https://github.com/Dilip-Kashyp/fullstackopen-practice) · ⭐ 0 · 🍴 0
 - [`Dilip-Kashyp/java`](https://github.com/Dilip-Kashyp/java) · ⭐ 0 · 🍴 0
